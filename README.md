@@ -14,7 +14,7 @@ So I designed a table that will contain all the second level readings notes .
 
 | Reading      | Title  |
 | -------------| -------|
-| [ReadME-1]() |        |
+| [ReadME-1](https://raghadmustafa96.github.io/reading-notes/README-1) |  Introduction to HTML & javascript      |
 | [ReadME-2]() |        |
 | [README-3]() |        |
 | [README-4]() |        |
