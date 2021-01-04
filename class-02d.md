@@ -72,6 +72,5 @@ SWITCH
 <br>
 
 
-### [Back To README File](https://raghadmustafa96.github.io/reading-notes)
-
+### [Back](https://raghadmustafa96.github.io/reading-notes/class-02)
 
