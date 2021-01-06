@@ -17,7 +17,7 @@ So I designed a table that will contain all the second level readings notes .
 | [ReadME-1](https://raghadmustafa96.github.io/reading-notes/README-1) |  Introduction to HTML & javascript      |
 | [ReadME-2](https://raghadmustafa96.github.io/reading-notes/class-02) | HTML(text / Introducing CSS) js(BasicInstructions)      |
 | [README-3](https://raghadmustafa96.github.io/reading-notes/README-3) | HTML(Lists / Boxes),js(basic instruction/Decisions and Loops part2) |
-| [README-4]() |        |
+| [README-4](https://raghadmustafa96.github.io/reading-notes/README-4) | HTML(Links/Layout),js(Functions,Methods,Objects)/Reasons for Pair Programming|
 | [README-5]() |        |
 | [README-6]() |        |
 | [README-7]() |        |
