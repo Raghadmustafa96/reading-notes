@@ -19,7 +19,7 @@ So I designed a table that will contain all the second level readings notes .
 | [README-3](https://raghadmustafa96.github.io/reading-notes/README-3) | HTML(Lists / Boxes),js(basic instruction/Decisions and Loops part2) |
 | [README-4](https://raghadmustafa96.github.io/reading-notes/README-4) | HTML(Links/Layout),js(Functions,Methods,Objects)/Reasons for Pair Programming|
 | [README-5](https://raghadmustafa96.github.io/reading-notes/README-5) | Images, Color, Text|
-| [README-6]() |        |
+| [README-6](https://raghadmustafa96.github.io/reading-notes/README-6) | Object Literals,Document Object Model |
 | [README-7]() |        |
 | [README-8]() |        |
 | [README-9]() |        |
