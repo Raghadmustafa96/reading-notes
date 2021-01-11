@@ -20,7 +20,7 @@ So I designed a table that will contain all the second level readings notes .
 | [README-4](https://raghadmustafa96.github.io/reading-notes/README-4) | HTML(Links/Layout),js(Functions,Methods,Objects)/Reasons for Pair Programming|
 | [README-5](https://raghadmustafa96.github.io/reading-notes/README-5) | Images, Color, Text|
 | [README-6](https://raghadmustafa96.github.io/reading-notes/README-6) | Object Literals,Document Object Model |
-| [README-7]() |        |
+| [README-7](https://raghadmustafa96.github.io/reading-notes/README-7) | Tables/ Functions, Methods, and Objects |
 | [README-8]() |        |
 | [README-9]() |        |
 | [README-10]()|        |
