@@ -25,7 +25,7 @@ So I designed a table that will contain all the second level readings notes .
 | [README-9](https://raghadmustafa96.github.io/reading-notes/README-9) |  Forms Lists, Tables & Events |
 | [README-10](https://raghadmustafa96.github.io/reading-notes/README-10)| Error Handling & Debugging |
 | [README-11](https://raghadmustafa96.github.io/reading-notes/README-11)| Audio, Video, Images |
-| [README-12]()|        |
+| [README-12](https://raghadmustafa96.github.io/reading-notes/README-12)|  Chart.js, Canvas      |
 | [README-13]()|        |
 | [README-14]()|        |
 | [README-15]()|        |
