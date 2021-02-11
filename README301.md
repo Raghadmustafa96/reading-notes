@@ -1,6 +1,6 @@
 # Code 301 Reading Notes
 
-> After passing the secondlevel in the software development intensive course from ASAC , I will move eagerly to the **third level 301** .
+> After passing the second level in the software development intensive course from ASAC , I will move eagerly to the **third level 301** .
 <br>
 >> One of the most important methods used in this course is **Reading** .
 Rapid reading of the topic before explanation gives us a greater ability to comprehend and understand things and to link between the read information and the explanation.
