@@ -15,12 +15,12 @@ So I designed a table that will contain all the third level readings notes .
 | Reading      | Title  |
 | -------------| -------|
 | [ReadME-1](https://raghadmustafa96.github.io/reading-notes/Read01_301) |RESPONSIVE WEB DESIGN and FLOATS |
-| [ReadME-2]() | |
-| [README-3]() | |
-| [README-4]() | |
-| [README-5]() | |
-| [README-6]() | |
-| [README-7]() | |
+| [ReadME-2](https://raghadmustafa96.github.io/reading-notes/Read02_301) |PAIR PROGRAMMING / EFFECTS |
+| [README-3](https://raghadmustafa96.github.io/reading-notes/Read03-301) | template engine (Mustache.js)/flexbox|
+| [README-4](https://raghadmustafa96.github.io/reading-notes/Read04-301) |Grid Layout |
+| [README-5](https://raghadmustafa96.github.io/reading-notes/Read05-301) | Heroku |
+| [README-6](https://raghadmustafa96.github.io/reading-notes/Read06-301) | Node js|
+| [README-7](https://raghadmustafa96.github.io/reading-notes/Readme07_301) | SuperAgent / REST|
 | [README-8]() | |
 | [README-9]() | |
 | [README-10]()| |
