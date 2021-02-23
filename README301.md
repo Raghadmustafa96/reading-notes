@@ -21,7 +21,7 @@ So I designed a table that will contain all the third level readings notes .
 | [README-5](https://raghadmustafa96.github.io/reading-notes/Read05_301) | Heroku |
 | [README-6](https://raghadmustafa96.github.io/reading-notes/Read06-301) | Node js|
 | [README-7](https://raghadmustafa96.github.io/reading-notes/Readme07_301) | SuperAgent / REST|
-| [README-8]() | |
+| [README-8](https://raghadmustafa96.github.io/reading-notes/Readme08_301) |SQL Structured Query Language|
 | [README-9]() | |
 | [README-10]()| |
 | [README-11]()| |
