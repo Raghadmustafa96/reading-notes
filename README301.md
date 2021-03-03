@@ -27,7 +27,7 @@ So I designed a table that will contain all the third level readings notes .
 | [README-11](https://raghadmustafa96.github.io/reading-notes/Read11_301)| Embedded Javascript (EJS)|
 | [README-12](https://raghadmustafa96.github.io/reading-notes/Read12_301)|EJS Partials |
 | [README-13](https://raghadmustafa96.github.io/reading-notes/Read13_301)|Sending form data |
-| [README-14]()| |
+| [README-14](https://raghadmustafa96.github.io/reading-notes/read14_301)|What is Normalization |
 | [README-15]()| |
 
 
