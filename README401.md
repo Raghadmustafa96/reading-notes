@@ -19,7 +19,7 @@ So I designed a table that will contain all the forth level readings notes.
 | -------------| -------|
 | [ReadME-1](https://raghadmustafa96.github.io/reading-notes/Class01_401) |Node Ecosystem, TDD, CI/CD|
 | [ReadME-2](https://raghadmustafa96.github.io/reading-notes/Class02_401) |Express|
-| [README-3]() ||
+| [README-3](https://raghadmustafa96.github.io/reading-notes/Class02_401) |class-03|
 | [README-4]() ||
 | [README-5]() ||
 | [README-6]() ||
