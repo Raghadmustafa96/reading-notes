@@ -23,9 +23,9 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-4](https://raghadmustafa96.github.io/reading-notes/Class04_401) |Data Modeling|
 | [README-5](https://raghadmustafa96.github.io/reading-notes/Class05_401) |Linked Lists|
 | [README-6](https://raghadmustafa96.github.io/reading-notes/Class06_401) |Authentication|
-| [README-7]() ||
-| [README-8]() ||
-| [README-9]() ||
+| [README-7](https://raghadmustafa96.github.io/reading-notes/Class07_401) |Bearer Authorization|
+| [README-8](https://raghadmustafa96.github.io/reading-notes/Class08_401) | Access Control (ACL)|
+| [README-9](https://raghadmustafa96.github.io/reading-notes/Class09_401) | OAuth|
 | [README-10]()||
 | [README-11]()||
 | [README-12]()||
