@@ -33,10 +33,10 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-14](https://raghadmustafa96.github.io/reading-notes/Class_14_401)|Trees|
 | [README-15](https://raghadmustafa96.github.io/reading-notes/Class16401)|AWS: Cloud Servers|
 | [README-16]()||
-| [README-17]()||
-| [README-18]()||
-| [README-19]()||
-| [README-20]()||
+| [README-17](https://raghadmustafa96.github.io/reading-notes/Class17_401)|AWS: S3 and Lambda|
+| [README-18](https://raghadmustafa96.github.io/reading-notes/Class18_401)|AWS: API, Dynamo and Lambda|
+| [README-19](https://raghadmustafa96.github.io/reading-notes/Class19_401)|AWS: Events|
+| [README-20](https://raghadmustafa96.github.io/reading-notes/Class26_401)|Component Based UI|
 
 
 ### [Back To Main page](https://raghadmustafa96.github.io/reading-notes/)
