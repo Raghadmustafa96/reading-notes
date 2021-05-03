@@ -37,6 +37,7 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-18](https://raghadmustafa96.github.io/reading-notes/Class18_401)|AWS: API, Dynamo and Lambda|
 | [README-19](https://raghadmustafa96.github.io/reading-notes/Class19_401)|AWS: Events|
 | [README-20](https://raghadmustafa96.github.io/reading-notes/Class26_401)|Component Based UI|
+| [README-21](https://raghadmustafa96.github.io/reading-notes/Class27_401)|Props and State|
 
 
 ### [Back To Main page](https://raghadmustafa96.github.io/reading-notes/)
