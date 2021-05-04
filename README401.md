@@ -38,6 +38,7 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-19](https://raghadmustafa96.github.io/reading-notes/Class19_401)|AWS: Events|
 | [README-20](https://raghadmustafa96.github.io/reading-notes/Class26_401)|Component Based UI|
 | [README-21](https://raghadmustafa96.github.io/reading-notes/Class27_401)|Props and State|
+| [README-22](https://raghadmustafa96.github.io/reading-notes/Class28_401)|Component Composition|
 
 
 ### [Back To Main page](https://raghadmustafa96.github.io/reading-notes/)
