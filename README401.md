@@ -40,6 +40,7 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-21](https://raghadmustafa96.github.io/reading-notes/Class27_401)|Props and State|
 | [README-22](https://raghadmustafa96.github.io/reading-notes/Class28_401)|Component Composition|
 | [README-23](https://raghadmustafa96.github.io/reading-notes/Class29_401)|Routing|
+| [README-23](https://raghadmustafa96.github.io/reading-notes/Class30_401)|Hash|
 
 
 ### [Back To Main page](https://raghadmustafa96.github.io/reading-notes/)
