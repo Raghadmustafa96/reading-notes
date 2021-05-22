@@ -44,10 +44,10 @@ So I designed a table that will contain all the forth level readings notes.
 | [README-25](https://raghadmustafa96.github.io/reading-notes/Class31_401)|Hooks API|
 | [README-26](https://raghadmustafa96.github.io/reading-notes/Class32_401)|Custom Hooks |
 |[README-27](https://raghadmustafa96.github.io/reading-notes/Class33_401) |Context API|
-
-
 |[README-28](https://raghadmustafa96.github.io/reading-notes/Class34_401) |Context API|
-|[README-28](https://raghadmustafa96.github.io/reading-notes/Class35_401) |Graphs|
+|[README-29](https://raghadmustafa96.github.io/reading-notes/Class35_401) |Graphs|
+|[README-30](https://raghadmustafa96.github.io/reading-notes/Class36_401) |Redux|
+
 
 
 ### [Back To Main page](https://raghadmustafa96.github.io/reading-notes/)
